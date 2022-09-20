@@ -1,0 +1,64 @@
+
+
+body { 
+    font: 18px Arial;
+  
+   background-color: 	#373e98;
+  
+  ;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 40px;
+    color: #f16775;
+  }
+  
+  p {
+    font-size: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  }
+  
+  p:first-child {
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+  }
+  
+  
+  .line {
+    fill: none;
+     stroke: url(#line-gradient);	
+    /*stroke: #001d6c;*/
+    stroke-width: 4px;    
+    }
+  
+  .chart {
+   background-color: #B6D6F0;
+   margin-right: 5px;
+  }
+  
+  .info {
+    width: 300px;
+    border: 5px solid black;
+  }
+  
+  #cont {
+    display: inline-flex;
+    //background-color: pink;
+    padding-left: 5%;
+     
+  }
+  
+  .duration {
+    text-align: center;
+    color: #fee36e;
+  }
+  
+  circle {
+    color: red;
+  }
+  
+  
